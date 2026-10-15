@@ -7,3 +7,6 @@ dist
 .env
 .env.*
 !.env.example
+
+# the university's campus PDFs: source material only, not republished
+bauhaus maps/
